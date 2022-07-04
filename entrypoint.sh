@@ -12,7 +12,7 @@ fi
 echo ${Xray_Path}
 
 if [[ -z "${UUID}" ]]; then
-  UUID="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  UUID="155ae53a-05e3-4d10-8f32-646bd6443151"
 fi
 echo ${UUID}
 
